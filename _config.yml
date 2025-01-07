@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Nicolas Anguita"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://academicpages.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "PhD Student at the University of Cambridge"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
-  uri              : "https://nicoanguita12.github.io"
+  # uri              : "https://nicoanguita12.github.io"
   email            : "na658@cam.ac.uk" 
 
   # Academic websites
